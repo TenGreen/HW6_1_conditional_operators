@@ -22,7 +22,6 @@ public class Main {
                 System.out.println("Приложение для вашй операционной системы находится в разработке");
         }
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         int operatingSystemVersion = 1;
@@ -85,7 +84,6 @@ public class Main {
             default:
                 System.out.println("Номер месяца не может быть больше 12");
         }
-
     }
 }
 
